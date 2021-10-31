@@ -4,9 +4,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 316 Contributions in the Year 2021
+> 🏆 319 Contributions in the Year 2021
  > 
-> 📦 250.0 kB Used in GitHub's Storage 
+> 📦 250.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,6 +73,6 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
  
