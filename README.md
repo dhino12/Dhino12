@@ -1,12 +1,12 @@
 ### Hi, nice to meet you, I am Dhino Rahmad 👋
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 331 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 250.1 kB Used in GitHub's Storage 
+> 📦 250.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,6 +73,6 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2021
+ Last Updated on 05/11/2021
 <!--END_SECTION:waka-->
  
