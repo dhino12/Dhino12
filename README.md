@@ -1,10 +1,10 @@
 ### Hi, nice to meet you, I am Dhino Rahmad 👋
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 333 Contributions in the Year 2021
+> 🏆 335 Contributions in the Year 2021
  > 
 > 📦 250.2 kB Used in GitHub's Storage 
  > 
@@ -27,12 +27,12 @@
 
 ```text
 Monday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
-Tuesday      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+Tuesday      90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
 Wednesday    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
 Thursday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
 Friday       90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
 Saturday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
-Sunday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.86%
+Sunday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47%
 
 ```
 
@@ -73,6 +73,6 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/11/2021
+ Last Updated on 16/11/2021
 <!--END_SECTION:waka-->
  
