@@ -73,6 +73,6 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2022 18:43:41 UTC
+ Last Updated on 21/02/2022 18:46:40 UTC
 <!--END_SECTION:waka-->
  
