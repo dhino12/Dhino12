@@ -1,10 +1,10 @@
 ### Hi, nice to meet you, I am Dhino Rahmad 👋
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 155 Contributions in the Year 2022
+> 🏆 157 Contributions in the Year 2022
  > 
 > 📦 216.8 kB Used in GitHub's Storage 
  > 
@@ -26,10 +26,10 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
 Tuesday      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
-Wednesday    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-Thursday     119 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17% 
+Wednesday    59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Thursday     118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.0% 
 Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
 Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
 Sunday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61%
@@ -73,6 +73,6 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 18:48:31 UTC
+ Last Updated on 22/03/2022 18:48:40 UTC
 <!--END_SECTION:waka-->
  
