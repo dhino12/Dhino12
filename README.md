@@ -1,6 +1,6 @@
 ### Hi, nice to meet you, I am Dhino Rahmad 👋
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,6 +73,6 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/03/2022 18:49:04 UTC
+ Last Updated on 01/04/2022 18:51:48 UTC
 <!--END_SECTION:waka-->
  
