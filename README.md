@@ -16,48 +16,6 @@
  > 
 > 🔑 22 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    108 commits    █████░░░░░░░░░░░░░░░░░░░░   19.89% 
-🌆 Daytime    148 commits    ██████░░░░░░░░░░░░░░░░░░░   27.26% 
-🌃 Evening    249 commits    ███████████░░░░░░░░░░░░░░   45.86% 
-🌙 Night      38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Wednesday    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Thursday     216 commits    ██████████░░░░░░░░░░░░░░░   39.78% 
-Friday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-Saturday     35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Sunday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,6 +33,6 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/09/2022 18:54:55 UTC
+ Last Updated on 26/09/2022 18:58:47 UTC
 <!--END_SECTION:waka-->
  
