@@ -1,38 +1,25 @@
-### Hi, nice to meet you, I am Dhino Rahmad 👋
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+### Hi, I'm Dhino Rahmad👋. &nbsp;&nbsp;<sup>👾 &#12299;I am learning and growing in the field of programming, I am more of a javascript developer.</sup>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+----
 
-**🐱 My GitHub Data** 
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
+![kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=kotlin&color=36465D&logoColor=AAA&style=flat-square)
+![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![framework](https://img.shields.io/static/v1?label=&message=framework:&color=111&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square)
+![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=laravel&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=FF0000&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vscode&color=36465D&logoColor=blue&style=flat-square)
 
-> 🏆 636 Contributions in the Year 2022
- > 
-> 📦 299.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 22 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
+----
 
-```text
-JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Kotlin                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
+<a href="https://linkedin.com/in/dhino-rahmad">
+  <img align="left" alt="dhino-rahmad LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
 
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Dhino12/Dhino12/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 18:50:19 UTC
-<!--END_SECTION:waka-->
- 
+&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://dhino12.netlify.app](https://dhino12.netlify.app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
