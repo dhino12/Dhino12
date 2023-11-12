@@ -22,4 +22,4 @@
   <img align="left" alt="dhino-rahmad LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://dhino12.netlify.app](https://dhino12.netlify.app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://dhino12.netlify.app](https://dhino12.netlify.app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work Maintainable: <sub>&#9660; &#9660; &#9660;</sub>
